@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 de fev de 2022, 16:08:30
+    Author     : juliana
+*/
+
+h1{
+    color: #0000cc;
+    font-family: arial;
+    font-size: 20pt;
+    font-style: italic;
+}
+
+#formulario label{
+    color: #ff0000;
+    font-family: verdana;
+    font-size: 12pt;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#formulario{
+    
+    border: 2px solid #FFFFFF;
+    border-color: #00ff00;    
+    background-color: #ffff00;
+    position:absolute;
+    top:85px;
+    left:20%;
+    width:60%;  
+}
+
+p{
+    color: #0000cc;
+    font-family: arial;
+    font-weight: bold;
+}
